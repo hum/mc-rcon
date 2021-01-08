@@ -32,5 +32,6 @@ The authentication has been separated from the client creation to allow for more
 Full example at [example.go](https://github.com/hum/mc-rcon/blob/main/example.go)
 
 ### TODO
-- [ ] Properly parse the response to be readable
-- [ ] Write tests
+- [ ] ~~Properly parse the response to be readable~~
+- [ ] ~~Write tests~~
+- [x] Too lazy to do anything. This is pretty much done.
